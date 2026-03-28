@@ -1,0 +1,7 @@
+THREAT INTELLIGENCE REPORT
+
+Matches:
+- Malicious IP detected
+- Suspicious file detected
+
+Severity: HIGH
